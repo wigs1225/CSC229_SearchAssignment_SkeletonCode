@@ -23,3 +23,6 @@ public class LinearSearch {
     }
     
 }
+
+//Github Repository: https://github.com/wigs1225/CSC229_SearchAssignment_SkeletonCode
+
